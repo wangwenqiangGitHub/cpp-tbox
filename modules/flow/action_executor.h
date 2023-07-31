@@ -20,6 +20,7 @@
 #ifndef TBOX_FLOW_EXECUTOR_H_20221112
 #define TBOX_FLOW_EXECUTOR_H_20221112
 
+#include <array>
 #include <deque>
 #include <tbox/base/defines.h>
 #include <tbox/event/loop.h>
